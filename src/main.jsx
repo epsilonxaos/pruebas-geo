@@ -6,7 +6,8 @@ import ReactDOM from "react-dom/client";
 // import App from './AppResp'
 
 // import App from "./Validate";
-import App from "./Chart";
+// import App from "./Chart";
+import App from "./Cursor";
 
 import "./App.css";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
